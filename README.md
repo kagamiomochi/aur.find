@@ -1,2 +1,2 @@
-# aur.find
-AURのAPIを使用したモバイルフレンドリーな検索サイト
+# arch.find
+Arch Linuxの公式リポジトリとAURのモバイルフレンドリーな検索サイト
